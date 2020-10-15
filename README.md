@@ -1,4 +1,4 @@
-Game Design Class Project
+# The mid-term project of Game Design course
 
 Game Description: https://en.wikipedia.org/wiki/Set_(card_game)
 
